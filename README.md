@@ -46,4 +46,4 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F70000FF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat's+" alt="Typing SVG" /></h1>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=aresxrd&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresxrd&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aresxrd&show_icons=true&theme=default"width="%100" height="150px" align="center" />
