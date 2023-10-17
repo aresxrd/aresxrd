@@ -26,12 +26,6 @@
  <img align="center" alt="aresxrd" width="40px" src="https://cdn.discordapp.com/emojis/963191315049353297.gif?size=128&quality=lossless" />
  </h2>
 
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
-<h2 align="center">
-<img width="50%" src="https://count.getloli.com/get/@:aresxrd?theme=rule34">
-<br> </br>
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/aresxrd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower" width="110px" /></a>
-</h2>
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
