@@ -14,7 +14,7 @@
 </br>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FF0000&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Reference+'s" alt="Typing SVG" /></h2>
 <h2 align="center">
-<a href="https://discord.gg/ez8kSfyCa7" target="_blank"><img align="center" alt="aresxrd" width="80px" src="https://cdn.discordapp.com/avatars/1163572930651893831/bc7bf51f765f5934169b581a777a6859.png?size=4096" /> </a>
+<a href="https://discord.gg/ez8kSfyCa7" target="_blank"><img align="center" alt="aresxrd" width="80px" src="https://cdn.discordapp.com/avatars/1163572930651893831/deecd1e96f44c82e7e2222e2c41d90c5.png?size=4096" /> </a>
  </h2>
 </br>
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00DCFF&repeat=false&background=69FF2000&center=true&vCenter=true&width=435&lines=Badge's" alt="Typing SVG" /></h2>
